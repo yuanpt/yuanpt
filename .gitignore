@@ -1,0 +1,17 @@
+# 阻止 idea路径
+
+.idea/
+.idea/*
+# 阻止.mvn路径
+
+.mvn/
+.mvn/*
+
+#阻止target路径
+
+target/
+target/*
+
+#阻止.iml路径
+
+.iml
